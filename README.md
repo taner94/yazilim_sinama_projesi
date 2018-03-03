@@ -1,0 +1,1 @@
+# yazilim_sinama_projesi
