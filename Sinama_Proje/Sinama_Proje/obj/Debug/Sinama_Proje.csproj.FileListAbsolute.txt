@@ -1,0 +1,50 @@
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\bin\Debug\Sinama_Proje.exe.config
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\bin\Debug\Sinama_Proje.exe
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\bin\Debug\Sinama_Proje.pdb
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.Properties.Resources.resources
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.exe
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.pdb
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormDemirbasArama.resources
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormGiris.resources
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormOdaDemirbasIslemleri.resources
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormOdaDemirbasListesi.resources
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormOdaTanimlama.resources
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormPersonelAramaDemirbas.resources
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormStokKayit.resources
+C:\Users\Hp\Desktop\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormMDI.resources
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\bin\Debug\Sinama_Proje.exe.config
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\bin\Debug\Sinama_Proje.exe
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\bin\Debug\Sinama_Proje.pdb
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.csprojResolveAssemblyReference.cache
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormMDI.resources
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormDemirbasArama.resources
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormGiris.resources
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormOdaDemirbasIslemleri.resources
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormOdaDemirbasListesi.resources
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormOdaTanimlama.resources
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormPersonelAramaDemirbas.resources
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormStokKayit.resources
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.Properties.Resources.resources
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.csproj.GenerateResource.Cache
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.csproj.CoreCompileInputs.cache
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.exe
+D:\Taner\Desktop\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.pdb
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\bin\Debug\Sinama_Proje.exe.config
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\bin\Debug\Sinama_Proje.exe
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\bin\Debug\Sinama_Proje.pdb
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.csprojResolveAssemblyReference.cache
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormMDI.resources
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormDemirbasArama.resources
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormGiris.resources
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormOdaDemirbasIslemleri.resources
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormOdaDemirbasListesi.resources
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormOdaTanimlama.resources
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormPersonelAramaDemirbas.resources
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.FormStokKayit.resources
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.Properties.Resources.resources
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.csproj.GenerateResource.Cache
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.csproj.CoreCompileInputs.cache
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.exe
+D:\Taner\Desktop\Yazılım Doğrulama ve Geçerlileme\Sinama_Proje\Sinama_Proje\Sinama_Proje\obj\Debug\Sinama_Proje.pdb
